@@ -1,0 +1,28 @@
+
+  .container{
+  display: Block;
+  justify-content: center;
+  padding: 5%;
+  margin-right: 15%;
+  margin-left: 15%;
+  }
+  .banner{
+    width: 100%;
+    margin-top: 2%;
+    color: white;
+    background-color: #101E8E;
+    height: 200px;
+    display: flex
+;
+    justify-content: center;
+  }
+  .text-banner{
+    font-size: 40px;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    color: #fff;
+    margin: auto;
+    font-family: Noto Sans, Noto Kufi Arabic, sans-serif;
+  }

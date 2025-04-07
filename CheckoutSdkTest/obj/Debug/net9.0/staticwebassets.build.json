@@ -1,0 +1,2062 @@
+{
+  "Version": 1,
+  "Hash": "ZWR0FJb/cL+2mlmzP9F5vqqkrdvu8KnMv3QoSZ2OcZg=",
+  "Source": "CheckoutSdkTest",
+  "BasePath": "_content/CheckoutSdkTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CheckoutSdkTest/wwwroot",
+      "Source": "CheckoutSdkTest",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/4wqjf0nccu-ipjoiovdjb.gz",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "success#[.{fingerprint=ipjoiovdjb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/success.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wyjqjqp5o6",
+      "Integrity": "aK0xXsh1EvOxu6tEjP/OWOFXc7k85THprqGodn44oaA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/success.html"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/9vv980h7p3-1xhqxgexhx.gz",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "logo-DOQpZjhz#[.{fingerprint=1xhqxgexhx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/logo-DOQpZjhz.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3qopfdjxqs",
+      "Integrity": "a3zrcGIWbfEj/dIGTZRr90JjzrvtfaiH+IegKMLHevk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/logo-DOQpZjhz.svg"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/izxqzglixe-r6apf6b0ss.gz",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "style#[.{fingerprint=r6apf6b0ss}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5k0agr8beq",
+      "Integrity": "q0IUZm4tKFaIZkBEVj3H/0JX84GTjt+8ELkfKYofTco=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/style.css"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/ofq6jctf0u-tg9j8ej9t5.gz",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "index copy#[.{fingerprint=tg9j8ej9t5}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index copy.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "e5s5tkfyki",
+      "Integrity": "wpoiRM/tZYcSYcTfPJQTQnCqTxNvMgGG5PddI6aSfaA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index copy.html"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/qkb4bq43re-8fjt2clk9n.gz",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "index#[.{fingerprint=8fjt2clk9n}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fnykz1xxdu",
+      "Integrity": "lRyJwEhlS2j6zqNv88Jawuvbaf3yTWUiS7I3ppnYwEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/u5krgycrhw-ou0op4nz1s.gz",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "script#[.{fingerprint=ou0op4nz1s}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lgrcy7kc6d",
+      "Integrity": "+8uySvUj+Eqpra5ihemNpX1YAmaxfOw/GcPp6JuEUXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/script.js"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index copy.html",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "index copy#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tg9j8ej9t5",
+      "Integrity": "rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index copy.html"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index.html",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8fjt2clk9n",
+      "Integrity": "lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/logo-DOQpZjhz.svg",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "logo-DOQpZjhz#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1xhqxgexhx",
+      "Integrity": "ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/logo-DOQpZjhz.svg"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/script.js",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ou0op4nz1s",
+      "Integrity": "UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/style.css",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6apf6b0ss",
+      "Integrity": "LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    },
+    {
+      "Identity": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/success.html",
+      "SourceId": "CheckoutSdkTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/",
+      "BasePath": "_content/CheckoutSdkTest",
+      "RelativePath": "success#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ipjoiovdjb",
+      "Integrity": "xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/success.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index copy.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/ofq6jctf0u-tg9j8ej9t5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002551020408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpoiRM/tZYcSYcTfPJQTQnCqTxNvMgGG5PddI6aSfaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:21:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk="
+        }
+      ]
+    },
+    {
+      "Route": "index copy.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index copy.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:21:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk="
+        }
+      ]
+    },
+    {
+      "Route": "index copy.html.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/ofq6jctf0u-tg9j8ej9t5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpoiRM/tZYcSYcTfPJQTQnCqTxNvMgGG5PddI6aSfaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:21:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wpoiRM/tZYcSYcTfPJQTQnCqTxNvMgGG5PddI6aSfaA="
+        }
+      ]
+    },
+    {
+      "Route": "index copy.tg9j8ej9t5.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/ofq6jctf0u-tg9j8ej9t5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002551020408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpoiRM/tZYcSYcTfPJQTQnCqTxNvMgGG5PddI6aSfaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:21:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tg9j8ej9t5"
+        },
+        {
+          "Name": "label",
+          "Value": "index copy.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk="
+        }
+      ]
+    },
+    {
+      "Route": "index copy.tg9j8ej9t5.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index copy.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:21:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tg9j8ej9t5"
+        },
+        {
+          "Name": "label",
+          "Value": "index copy.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSa/RZcJQ1xzs5TGDskrLj2Duu8hDGWNzhZh5Tb9qXk="
+        }
+      ]
+    },
+    {
+      "Route": "index copy.tg9j8ej9t5.html.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/ofq6jctf0u-tg9j8ej9t5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpoiRM/tZYcSYcTfPJQTQnCqTxNvMgGG5PddI6aSfaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:21:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tg9j8ej9t5"
+        },
+        {
+          "Name": "label",
+          "Value": "index copy.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wpoiRM/tZYcSYcTfPJQTQnCqTxNvMgGG5PddI6aSfaA="
+        }
+      ]
+    },
+    {
+      "Route": "index.8fjt2clk9n.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/qkb4bq43re-8fjt2clk9n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002257336343"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRyJwEhlS2j6zqNv88Jawuvbaf3yTWUiS7I3ppnYwEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8fjt2clk9n"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.8fjt2clk9n.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8fjt2clk9n"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.8fjt2clk9n.html.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/qkb4bq43re-8fjt2clk9n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRyJwEhlS2j6zqNv88Jawuvbaf3yTWUiS7I3ppnYwEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8fjt2clk9n"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRyJwEhlS2j6zqNv88Jawuvbaf3yTWUiS7I3ppnYwEU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/qkb4bq43re-8fjt2clk9n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002257336343"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRyJwEhlS2j6zqNv88Jawuvbaf3yTWUiS7I3ppnYwEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkmJvO+4ph/IGTYhPgd3ODUpS8SZ4Qfvodgd3ynA2Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/qkb4bq43re-8fjt2clk9n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRyJwEhlS2j6zqNv88Jawuvbaf3yTWUiS7I3ppnYwEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRyJwEhlS2j6zqNv88Jawuvbaf3yTWUiS7I3ppnYwEU="
+        }
+      ]
+    },
+    {
+      "Route": "logo-DOQpZjhz.1xhqxgexhx.svg",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/9vv980h7p3-1xhqxgexhx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000153609831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6509"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a3zrcGIWbfEj/dIGTZRr90JjzrvtfaiH+IegKMLHevk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 06:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xhqxgexhx"
+        },
+        {
+          "Name": "label",
+          "Value": "logo-DOQpZjhz.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs="
+        }
+      ]
+    },
+    {
+      "Route": "logo-DOQpZjhz.1xhqxgexhx.svg",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/logo-DOQpZjhz.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 06:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xhqxgexhx"
+        },
+        {
+          "Name": "label",
+          "Value": "logo-DOQpZjhz.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs="
+        }
+      ]
+    },
+    {
+      "Route": "logo-DOQpZjhz.1xhqxgexhx.svg.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/9vv980h7p3-1xhqxgexhx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a3zrcGIWbfEj/dIGTZRr90JjzrvtfaiH+IegKMLHevk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 06:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xhqxgexhx"
+        },
+        {
+          "Name": "label",
+          "Value": "logo-DOQpZjhz.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a3zrcGIWbfEj/dIGTZRr90JjzrvtfaiH+IegKMLHevk="
+        }
+      ]
+    },
+    {
+      "Route": "logo-DOQpZjhz.svg",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/9vv980h7p3-1xhqxgexhx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000153609831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6509"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a3zrcGIWbfEj/dIGTZRr90JjzrvtfaiH+IegKMLHevk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 06:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs="
+        }
+      ]
+    },
+    {
+      "Route": "logo-DOQpZjhz.svg",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/logo-DOQpZjhz.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 06:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ywHHTQENRomyzm9a5TAXM8BKavG7eg/OyWyZmWiagrs="
+        }
+      ]
+    },
+    {
+      "Route": "logo-DOQpZjhz.svg.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/9vv980h7p3-1xhqxgexhx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a3zrcGIWbfEj/dIGTZRr90JjzrvtfaiH+IegKMLHevk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 06:45:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a3zrcGIWbfEj/dIGTZRr90JjzrvtfaiH+IegKMLHevk="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/u5krgycrhw-ou0op4nz1s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001259445844"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8uySvUj+Eqpra5ihemNpX1YAmaxfOw/GcPp6JuEUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:19:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:19:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/u5krgycrhw-ou0op4nz1s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8uySvUj+Eqpra5ihemNpX1YAmaxfOw/GcPp6JuEUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:19:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+8uySvUj+Eqpra5ihemNpX1YAmaxfOw/GcPp6JuEUXk="
+        }
+      ]
+    },
+    {
+      "Route": "script.ou0op4nz1s.js",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/u5krgycrhw-ou0op4nz1s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001259445844"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8uySvUj+Eqpra5ihemNpX1YAmaxfOw/GcPp6JuEUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:19:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ou0op4nz1s"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I="
+        }
+      ]
+    },
+    {
+      "Route": "script.ou0op4nz1s.js",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:19:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ou0op4nz1s"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJPKALYevogCKSPqpda7SONbBmy/0rNHW8rYqimU56I="
+        }
+      ]
+    },
+    {
+      "Route": "script.ou0op4nz1s.js.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/u5krgycrhw-ou0op4nz1s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8uySvUj+Eqpra5ihemNpX1YAmaxfOw/GcPp6JuEUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:19:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ou0op4nz1s"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+8uySvUj+Eqpra5ihemNpX1YAmaxfOw/GcPp6JuEUXk="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/izxqzglixe-r6apf6b0ss.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003448275862"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0IUZm4tKFaIZkBEVj3H/0JX84GTjt+8ELkfKYofTco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/izxqzglixe-r6apf6b0ss.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0IUZm4tKFaIZkBEVj3H/0JX84GTjt+8ELkfKYofTco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0IUZm4tKFaIZkBEVj3H/0JX84GTjt+8ELkfKYofTco="
+        }
+      ]
+    },
+    {
+      "Route": "style.r6apf6b0ss.css",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/izxqzglixe-r6apf6b0ss.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003448275862"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0IUZm4tKFaIZkBEVj3H/0JX84GTjt+8ELkfKYofTco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6apf6b0ss"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw="
+        }
+      ]
+    },
+    {
+      "Route": "style.r6apf6b0ss.css",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6apf6b0ss"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQmchZGJwkPe53VD/+iq/2MRZJDLitd29vO9D5bvLgw="
+        }
+      ]
+    },
+    {
+      "Route": "style.r6apf6b0ss.css.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/izxqzglixe-r6apf6b0ss.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0IUZm4tKFaIZkBEVj3H/0JX84GTjt+8ELkfKYofTco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6apf6b0ss"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0IUZm4tKFaIZkBEVj3H/0JX84GTjt+8ELkfKYofTco="
+        }
+      ]
+    },
+    {
+      "Route": "success.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/4wqjf0nccu-ipjoiovdjb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002577319588"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "387"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aK0xXsh1EvOxu6tEjP/OWOFXc7k85THprqGodn44oaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:52:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM="
+        }
+      ]
+    },
+    {
+      "Route": "success.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/success.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:52:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM="
+        }
+      ]
+    },
+    {
+      "Route": "success.html.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/4wqjf0nccu-ipjoiovdjb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aK0xXsh1EvOxu6tEjP/OWOFXc7k85THprqGodn44oaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:52:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aK0xXsh1EvOxu6tEjP/OWOFXc7k85THprqGodn44oaA="
+        }
+      ]
+    },
+    {
+      "Route": "success.ipjoiovdjb.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/4wqjf0nccu-ipjoiovdjb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002577319588"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "387"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aK0xXsh1EvOxu6tEjP/OWOFXc7k85THprqGodn44oaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:52:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipjoiovdjb"
+        },
+        {
+          "Name": "label",
+          "Value": "success.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM="
+        }
+      ]
+    },
+    {
+      "Route": "success.ipjoiovdjb.html",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/success.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:52:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipjoiovdjb"
+        },
+        {
+          "Name": "label",
+          "Value": "success.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xltpfAVuxi8ZC82Dg5QiIHwuY2xs3NUcB8Z1yZ77KgM="
+        }
+      ]
+    },
+    {
+      "Route": "success.ipjoiovdjb.html.gz",
+      "AssetFile": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/obj/Debug/net9.0/compressed/4wqjf0nccu-ipjoiovdjb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aK0xXsh1EvOxu6tEjP/OWOFXc7k85THprqGodn44oaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 07:52:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipjoiovdjb"
+        },
+        {
+          "Name": "label",
+          "Value": "success.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aK0xXsh1EvOxu6tEjP/OWOFXc7k85THprqGodn44oaA="
+        }
+      ]
+    }
+  ]
+}

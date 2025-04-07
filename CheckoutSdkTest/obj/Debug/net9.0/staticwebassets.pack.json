@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index copy.html",
+      "PackagePath": "staticwebassets/index copy.html"
+    },
+    {
+      "Id": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/logo-DOQpZjhz.svg",
+      "PackagePath": "staticwebassets/logo-DOQpZjhz.svg"
+    },
+    {
+      "Id": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/script.js",
+      "PackagePath": "staticwebassets/script.js"
+    },
+    {
+      "Id": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "/Users/asma.hawari/Sites/dotnet/TestSdk/CheckoutSdkTest/wwwroot/success.html",
+      "PackagePath": "staticwebassets/success.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.CheckoutSdkTest.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.CheckoutSdkTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.CheckoutSdkTest.props",
+      "PackagePath": "build\\CheckoutSdkTest.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CheckoutSdkTest.props",
+      "PackagePath": "buildMultiTargeting\\CheckoutSdkTest.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CheckoutSdkTest.props",
+      "PackagePath": "buildTransitive\\CheckoutSdkTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

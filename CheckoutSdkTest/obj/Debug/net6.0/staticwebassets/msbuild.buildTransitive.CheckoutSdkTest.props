@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/CheckoutSdkTest.props" />
+</Project>
